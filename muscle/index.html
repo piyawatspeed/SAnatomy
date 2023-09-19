@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="window.js"></script>
+    <meta charset="utf-8">
+    <meta name="description" content="&lt;model-viewer&gt; template">
+    <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no" >
+    <link type="text/css" href="./styles.css" rel="stylesheet"/>
+    <link type="text/css" href="./window.css" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400;500&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>&lt;ระบบกล้ามเนื้อ&gt; </title>
+    <meta charset="utf-8">
+    <meta name="description" content="&lt;model-viewer&gt; template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" href="./styles.css" rel="stylesheet"/>
+  </head>
+  
+  <body>
+    <!-- <model-viewer> HTML element -->
+    <model-viewer id="hotspot-camera-view-demo" src="muscle.glb" camera-controls poster="poster.webp" shadow-intensity="1">
+      <button class="Hotspot" slot="hotspot-1" id="1" data-position="0.03057045983000406m 1.0866653247126314m 0.11447791176816641m" data-normal="-0.025387708701683213m 0.3342369352612555m 0.9421470879613448m" data-visibility-attribute="visible" data-orbit="1447deg 92.71deg 1.926m" data-target="0.03m 1.09m 0.11m">
+          <div class="HotspotAnnotation">External abdominal oblique muscle</div>
+      </button><button class="Hotspot" slot="hotspot-2" data-position="-0.00865221403177785m 1.6939280845371882m -0.06689366043984468m" data-normal="-0.0236531010262392m 0.7681105784136528m -0.6398801998350051m" data-visibility-attribute="visible" data-orbit="185.5deg 46.26deg 2.104m" data-target="-0.01m 1.69m -0.07m">
+          <div class="HotspotAnnotation">Epicranial aponeurosis</div>
+      </button><button class="Hotspot" slot="hotspot-3" data-position="-0.07995806207774381m 1.631431142574214m -0.006736588054466114m" data-normal="-0.9957107385967848m 0.08985977000369252m 0.022030587326010834m" data-visibility-attribute="visible" data-orbit="280.6deg 88.34deg 2.022m" data-target="-0.08m 1.63m -0.01m">
+          <div class="HotspotAnnotation">Temporoparietalis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-4" data-position="-0.040499495473734215m 1.598744000016875m -0.08820211030774994m" data-normal="-0.6337489214940086m -0.41405767973414104m -0.6533900384596941m" data-visibility-attribute="visible" data-orbit="218.3deg 104.7deg 1.976m" data-target="-0.04m 1.60m -0.09m">
+          <div class="HotspotAnnotation">Occipitalis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-5" data-position="0.02944305354346599m 1.64625962444827m 0.08407192634431129m" data-normal="0.40301536021780937m 0.2646364641101671m 0.8760971186414083m" data-visibility-attribute="visible" data-orbit="378deg 76.26deg 1.902m" data-target="0.03m 1.65m 0.08m">
+          <div class="HotspotAnnotation">Frontalis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-6" data-position="0.055384796105733894m 1.6092166460785164m 0.040542020034674955m" data-normal="0.7640654554777451m -0.367471157669536m 0.5302536449913354m" data-visibility-attribute="visible" data-orbit="427.9deg 90.29deg 1.902m" data-target="0.06m 1.61m 0.04m" >
+          <div class="HotspotAnnotation">Temporalis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-7" data-position="-0.0076413925133091976m 1.583667071668979m 0.09226289119264597m" data-normal="-0.8045708044103659m 0.564256601988807m 0.18514942020568662m" data-visibility-attribute="visible" data-orbit="312.2deg 83.28deg 1.903m" data-target="-0.01m 1.58m 0.09m">
+          <div class="HotspotAnnotation">Nasalis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-8" data-position="0.03222595684112714m 1.575139349489665m 0.07321682804031564m" data-normal="0.3399943272613177m -0.20130364666950215m 0.9186297944589454m" data-visibility-attribute="visible" data-orbit="397.1deg 85.62deg 1.902m" data-target="0.03m 1.58m 0.07m">
+          <div class="HotspotAnnotation">Orbital part of orbicularis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-9" data-position="-0.01959260479620939m 1.5409011032670672m 0.08603107625956508m" data-normal="-0.6743392127673729m -0.18958726275186397m 0.7136688979677729m" data-visibility-attribute="visible" data-orbit="365.9deg 89.13deg 1.902m" data-target="-0.02m 1.54m 0.08m">
+          <div class="HotspotAnnotation">Orbicularis oris muscle</div>
+      </button><button class="Hotspot" slot="hotspot-10" data-position="-0.03704730622976016m 1.4461794204109697m 0.03168549763093509m" data-normal="-0.7405276420052556m 0.3420770048444157m 0.5784480393110601m" data-visibility-attribute="visible" data-orbit="341.7deg 79deg 1.973m" data-target="-0.04m 1.45m 0.03m">
+          <div class="HotspotAnnotation">Platysma</div>
+      </button><button class="Hotspot" slot="hotspot-11" data-position="0.00002339089170653747m 1.4112323713233124m -0.09872502362795703m" data-normal="-0.9168854922297655m 0.06460442219539703m -0.393887373206326m" data-visibility-attribute="visible" data-orbit="541.6deg 71.6deg 1.902m" data-target="0.00m 1.41m -0.10m">
+          <div class="HotspotAnnotation">Trapezius muscle</div>
+      </button><button class="Hotspot" slot="hotspot-12" data-position="-0.21805312244391617m 1.3868086721172934m -0.024769816639373388m" data-normal="-0.7659451154604264m 0.5403543534072373m 0.3483464552082609m" data-visibility-attribute="visible" data-orbit="674.1deg 73.94deg 2.009m" data-target="-0.22m 1.39m 1.39m">
+          <div class="HotspotAnnotation">Deltoid muscles</div>
+      </button><button class="Hotspot" slot="hotspot-13" data-position="-0.19658320929869433m 1.2257892510367525m 0.005261226072358349m" data-normal="-0.34555026484254414m 0.00333952907812466m 0.938394299861622m" data-visibility-attribute="visible" data-orbit="697.1deg 103.2deg 1.979m" data-target="-0.20m 1.23m 0.00m">
+          <div class="HotspotAnnotation">Biceps brachii</div>
+      </button><button class="Hotspot" slot="hotspot-14" data-position="-0.20214839348941077m 1.210983754231799m -0.08193490351066468m" data-normal="0.1503541295870252m -0.07260866817964064m -0.9859622797152572m" data-visibility-attribute="visible" data-orbit="528.4deg 87.62deg 1.902m" data-target="-0.20m 1.21m -0.08m">
+          <div class="HotspotAnnotation">Triceps brachii</div>
+      </button><button class="Hotspot" slot="hotspot-15" data-position="-0.26343769741600354m 1.0712907020747457m 0.0006806720652225984m" data-normal="-0.17388204608353067m 0.22248395456922357m 0.9593049171191842m" data-visibility-attribute="visible" data-orbit="688.9deg 76.32deg 1.902m" data-target="-0.26m 1.07m -0.00m">
+          <div class="HotspotAnnotation">Brachioradialis muscle</div>
+    
+      </button><button class="Hotspot" slot="hotspot-17" data-position="-0.26165603275926896m 1.0236335351546884m -0.047613456809376675m" data-normal="-0.6468542824140191m -0.057972996949326276m -0.7604069101128407m" data-visibility-attribute="visible" data-orbit="573.2deg 88.79deg 2.491m" data-target="-0.26m 1.02m -0.05m" >
+          <div class="HotspotAnnotation">Extensor digitorum</div>
+      </button><button class="Hotspot" slot="hotspot-18" data-position="-0.22960760138170866m 0.9980432471590472m 0.017654447976063636m" data-normal="0.7041173704280088m -0.0021412014295583873m 0.7100803784910441m" data-visibility-attribute="visible" data-orbit="761deg 88.4deg 2.424m" data-target="-0.24m 1.00m 0.02m">
+          <div class="HotspotAnnotation">Flexor carpi radialis</div>
+      </button><button class="Hotspot" slot="hotspot-19" data-position="-0.29012161190441943m 0.844269387764974m 0.047052732282729215m" data-normal="-0.043666997876030726m 0.41263461726015616m 0.9098493644197699m" data-visibility-attribute="visible" data-orbit="677.2deg 78.66deg 1.902m" data-target="-0.29m 0.85m 0.04m">
+          <div class="HotspotAnnotation">Abductor pollicis brevis</div>
+      </button><button class="Hotspot" slot="hotspot-20" data-position="-0.26049174090424926m 0.8140596833943928m 0.04353135869534808m" data-normal="-0.005115456796342852m 0.2619441880106606m 0.9650694661366096m" data-visibility-attribute="visible" data-orbit="739.5deg 91.52deg 1.925m" data-target="-0.26m 0.81m 0.04m">
+          <div class="HotspotAnnotation">Common flexor tendon sheath</div>
+      </button><button class="Hotspot" slot="hotspot-21" data-position="-0.001503845170765919m 1.0647266544306442m -0.08021553014277227m" data-normal="0.8862119495502219m -0.10531014933716747m -0.4511520286122832m" data-visibility-attribute="visible" data-orbit="542.7deg 79.83deg 2.457m" data-target="0.00m 1.07m -0.07m">
+          <div class="HotspotAnnotation">Latissimus dorsi</div>
+      </button><button class="Hotspot" slot="hotspot-23" data-position="-0.0827518539758938m 0.8753144398972572m -0.10471519471227686m" data-normal="-0.34471240980730494m 0.037866272120774855m -0.9379442947001257m" data-visibility-attribute="visible" data-orbit="583.2deg 92.3deg 2.369m" data-target="-0.08m 0.87m -0.11m">
+          <div class="HotspotAnnotation">Gluteus maximus muscle</div>
+      </button><button class="Hotspot" slot="hotspot-24" data-position="-0.15752230152972402m 0.7148907035823904m -0.006690929712128743m" data-normal="-0.947771902608425m 0.10406237008126211m -0.301495346164873m" data-visibility-attribute="visible" data-orbit="631.1deg 82.17deg 2.289m" data-target="-0.16m 0.71m -0.01m">
+          <div class="HotspotAnnotation">Iliotibial tract</div>
+      </button><button class="Hotspot" slot="hotspot-25" data-position="0.11264872066018637m 0.6904622038801784m 0.059852057329569185m" data-normal="0.2657080789865569m -0.016205746770818003m 0.963917315195071m" data-visibility-attribute="visible" data-orbit="709deg 78.66deg 2.222m" data-target="0.11m 0.69m 0.06m">
+          <div class="HotspotAnnotation">Rectus femoris muscle</div>
+      </button><button class="Hotspot" slot="hotspot-26" data-position="0.056969551004906194m 0.551578871851329m 0.03415263062449449m" data-normal="-0.7316201608994977m -0.16989879655253948m 0.6602017412089974m" data-visibility-attribute="visible" data-orbit="695deg 77.49deg 2.254m" data-target="0.06m 0.55m 0.04m">
+          <div class="HotspotAnnotation">Vastus medialis muscle</div>
+      </button><button class="Hotspot" slot="hotspot-27" data-position="0.1392718898773615m 0.5983204076317228m 0.03583676728506961m" data-normal="0.6073822630642642m -0.12525615225871964m 0.784472869407396m" data-visibility-attribute="visible" data-orbit="762.8deg 71.26deg 2.188m" data-target="0.14m 0.60m 0.04m">
+          <div class="HotspotAnnotation">Vastus lateralis muscle</div> 
+      </button><button class="Hotspot" slot="hotspot-28" data-position="0.13700488336092476m 0.8780092479521983m 0.04200036615348955m" data-normal="0.5502504141691382m -0.04000032427150354m 0.8340410396166765m" data-visibility-attribute="visible" data-orbit="751.1deg 67.36deg 2.088m" data-target="0.13m 0.88m 0.05m">
+          <div class="HotspotAnnotation">Tensor fasciae latae</div>
+      </button><button class="Hotspot" slot="hotspot-29" data-position="0.10086375483999022m 0.6399034556447747m -0.06627947415196449m" data-normal="0.6707718763198677m 0.11195025555537493m -0.7331658954284566m" data-visibility-attribute="visible" data-orbit="896.8deg 91.91deg 2.009m" data-target="0.10m 0.64m -0.06m">
+          <div class="HotspotAnnotation">Biceps femoris</div>
+      </button><button class="Hotspot" slot="hotspot-30" data-position="0.051167219096686756m 0.5897196978740225m -0.07502244772219235m" data-normal="0.05622484657888166m -0.008337543223234104m -0.9983833191716407m" data-visibility-attribute="visible" data-orbit="904.6deg 77.88deg 1.902m" data-target="0.05m 0.59m -0.07m">
+          <div class="HotspotAnnotation">Semitendinosus muscle</div>
+      </button><button class="Hotspot" slot="hotspot-31" data-position="0.03102324057807282m 0.524953098981456m -0.05500306743625588m" data-normal="-0.7786464339384226m 0.06401342835382773m -0.6241890834557805m" data-visibility-attribute="visible" data-orbit="950.2deg 79.44deg 1.942m" data-target="0.04m 0.52m -0.06m">
+          <div class="HotspotAnnotation">Semimembranosus muscle</div>
+      </button><button class="Hotspot" slot="hotspot-32" data-position="0.040138723330968906m 0.6260744108118099m 0.02148881419413968m" data-normal="-0.7595047407983496m -0.07875656309973035m 0.6457166193258077m" data-visibility-attribute="visible" data-orbit="1036deg 82.95deg 2.439m" data-target="0.04m 0.63m 0.02m">
+          <div class="HotspotAnnotation">Sartorius muscle</div>
+      </button><button class="Hotspot" slot="hotspot-33" data-position="0.11951004804959532m 0.339648257570407m -0.1000383518343031m" data-normal="0.2830191932056303m 0.016012918027065327m -0.9589805643147793m" data-visibility-attribute="visible" data-orbit="1222deg 74.38deg 2.378m" data-target="0.12m 0.34m -0.10m">
+          <div class="HotspotAnnotation">Lateral head of gastrocnemius</div>
+      </button><button class="Hotspot" slot="hotspot-34" data-position="0.04495721441437059m 0.2806100345001208m -0.09236938591326549m" data-normal="-0.6109289420444723m -0.18406342225180913m -0.7699912235612653m" data-visibility-attribute="visible" data-orbit="1313deg 79.06deg 2.135m" data-target="0.05m 0.28m -0.09m">
+          <div class="HotspotAnnotation">Medial head of gastrocnemius</div>
+      </button><button class="Hotspot" slot="hotspot-35" data-position="-0.09643025342834505m 0.28639228542599565m 0.0006661471180371414m" data-normal="-0.3298203718393342m -0.14800860149017428m 0.9323690128938683m" data-visibility-attribute="visible" data-orbit="1434deg 76.72deg 2.066m" data-target="-0.10m 0.29m 0.00m">
+          <div class="HotspotAnnotation">Tibialis anterior muscle</div>
+      </button><button class="Hotspot" slot="hotspot-36" data-position="-0.13252268991020077m 0.3079167518419008m -0.04364677714438581m" data-normal="-0.9888413634184312m -0.000947163836838504m 0.14896932863326015m" data-visibility-attribute="visible" data-orbit="1349deg 77.11deg 2.027m" data-target="-0.13m 0.31m -0.05m">
+          <div class="HotspotAnnotation">Fibularis longus muscle</div>
+      </button><button class="Hotspot" slot="hotspot-37" data-position="-0.0510586369275805m 0.23958644619886368m -0.04174899562770329m" data-normal="0.249482343651874m -0.32360771803335764m 0.9127083899226582m" data-visibility-attribute="visible"data-orbit="1498deg 90.36deg 1.954m" data-target="-0.05m 0.24m -0.04m">
+          <div class="HotspotAnnotation">Soleus muscle</div>
+      </button><button class="Hotspot" slot="hotspot-38" data-position="-0.0749002101148028m 0.16931383283496246m -0.0780705388236298m" data-normal="0.04100330032835948m -0.08143384154755703m -0.9958349556091058m" data-visibility-attribute="visible" data-orbit="1584deg 84.91deg 1.945m" data-target="-0.07m 0.17m -0.08-0.08m">
+          <div class="HotspotAnnotation">Calcaneal tendon</div>
+      </button><button class="Hotspot" slot="hotspot-39" data-position="-0.07963404521763073m 0.04610472682534117m 0.05455271651104576m" data-normal="0.6137489820154808m 0.6237001305495822m 0.4840561271458046m" data-visibility-attribute="visible" data-orbit="1439deg 28.81deg 2.094m" data-target="-0.08m 0.05m 0.05m">
+          <div class="HotspotAnnotation">Dorsal interossei muscles of foot</div>
+      </button><button class="Hotspot" slot="hotspot-40" data-position="0.10847150187145438m 0.05914447502828144m -0.017015619734864453m" data-normal="0.9590394134969703m 0.21918265181613306m -0.17945018390136938m" data-visibility-attribute="visible" data-orbit="1519deg 39.72deg 2.006m" data-target="0.11m 0.06m -0.02m">
+          <div class="HotspotAnnotation">Extensor digitorum brevis</div>
+      </button>
+      <div class="progress-bar hide" slot="progress-bar">
+          <div class="update-bar"></div>
+      </div>
+      <button slot="ar-button" id="ar-button">
+          View in your space
+      </button>
+      <div id="ar-prompt">
+          <img src="ar_hand_prompt.png">
+      </div>
+
+      <script>
+        $(function() {
+            $( "#draggable" ).draggable({ containment: "#hotspot-camera-view-demo" });
+        });
+      </script>
+    </model-viewer>
+    <a href="https://speedpiyawat.github.io/AnatomyRabbit/index.html" ><button  id="ar-button" href="https://speedpiyawat.github.io/AnatomyRabbit/index.html">
+        ระบบกระดูก
+    </button> </a>
+    <a href="https://speedpiyawat.github.io/AnatomyRabbit/muscle/index.html"> <button  id="ar-button1" href="https://speedpiyawat.github.io/AnatomyRabbit/muscle/index.html">
+        ระบบกล้ามเนื้อ
+    </button> </a>
+    <div class="move" id="draggable">
+        <div class="info" >
+            <div class="header">
+                <button type="button" class="btn-close" aria-label="Close" id="out"></button>
+                <p class="name"> </p>
+            </div>
+            <div class="text">
+                
+            </div>
+        </div>  
+    </div>  
+    <script src="script.js"></script>
+    <!-- Loads <model-viewer> for browsers: -->
+        <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+        <script type="module">
+            const modelViewer2 = document.querySelector("#hotspot-camera-view-demo");
+            const annotationClicked = (annotation) => {
+              let dataset = annotation.dataset;
+              modelViewer2.cameraTarget = dataset.target;
+              modelViewer2.cameraOrbit = dataset.orbit;
+              modelViewer2.fieldOfView = '45deg';
+            }
+          
+            modelViewer2.querySelectorAll('button').forEach((hotspot) => {
+              hotspot.addEventListener('click', () => annotationClicked(hotspot));
+            });
+          </script>
+
+  </body>
+</html>

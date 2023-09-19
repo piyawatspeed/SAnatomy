@@ -1,0 +1,52 @@
+.info7:hover {
+    transform: scale(1.05);
+    z-index: 10;
+  } 
+  
+.header7 {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    border-radius: 20px 20px 0px 0px;
+  }
+.info7 {
+    width: 380px;
+    height: 220px;
+    position: relative;
+    top: 29%;
+    border: 1px solid rgba(255, 255, 255, .25);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    backdrop-filter: blur(9px);
+    min-width: 380px;
+    transition: all 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
+    pointer-events: auto;
+    cursor: pointer;
+    z-index: 10;
+
+  }  
+  .name7 {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 19px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+  }
+  
+  .text7 {
+    margin-top: 55px;
+    height: 100%;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    margin-left: 19px;
+    margin-right: 40px;
+  }
+  .move7 {
+    position: absolute;
+    left: 60%;
+    top: 29%;
+    z-index: 10;
+    display: none;
+  }

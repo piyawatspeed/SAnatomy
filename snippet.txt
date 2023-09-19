@@ -1,0 +1,126 @@
+<model-viewer src="df.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" environment-image="whipple_creek_regional_park_04_1k.hdr" exposure="0.93">
+    <button class="Hotspot" slot="hotspot-2" data-position="0.002014426402754149m 1.6505461181653183m 0.0834290474217585m" data-normal="0.06408506677891457m 0.41736214097842034m 0.9064777699943067m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Frontal bone</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="0.06748171414744997m 1.6542357298047425m -0.0011599072056134307m" data-normal="0.9574770379412397m 0.21191835173700127m 0.19577623454429469m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Cranium</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="0.0630306988708242m 1.5919310858140088m -0.0027260006610403506m" data-normal="0.9176867896694766m -0.27161638192748155m 0.28995775060300516m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Temporal bone</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="-0.05121643138057652m 1.5724105783254023m 0.058130856706698264m" data-normal="-0.869930538163761m 0.049982949153631044m 0.49063485767321385m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Zygomatic bone</div>
+    </button><button class="Hotspot" slot="hotspot-6" data-position="-0.05686594499921638m 1.6724680214048058m -0.05353074327760399m" data-normal="-0.769705166065942m 0.5455938288705708m -0.3314835308574938m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Parietal bone</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-position="0.05258993652541752m 1.6710388238159808m -0.06257148595575623m" data-normal="0.7215770881090111m 0.5292568715836001m -0.44633358578272064m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Parietal bone</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-position="-0.006614546687337908m 1.5985421364852757m -0.09991306639554409m" data-normal="0.0029308214688649557m -0.21227115813864117m -0.977206408957697m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Occipital bone</div>
+    </button><button class="Hotspot" slot="hotspot-9" data-position="-0.061654476432074334m 1.5913435368950688m 0.0010282780693279814m" data-normal="-0.9065320974358506m -0.2876789153977283m 0.3089342939107674m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Temporal bone</div>
+    </button><button class="Hotspot" slot="hotspot-10" data-position="0.05224312074421454m 1.5711629674430325m 0.05623430966799496m" data-normal="0.8574473319421931m -0.14113157935336768m 0.49483931761172617m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Zygomatic bone</div>
+    </button><button class="Hotspot" slot="hotspot-11" data-position="0.001380752601183019m 1.59318412315679m 0.09064420798263016m" data-normal="-0.050252807173486756m 0.5299036586798879m 0.8465676392875253m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Nasal bone</div>
+    </button><button class="Hotspot" slot="hotspot-12" data-position="0.01993770351459779m 1.5627427233017963m 0.07606744108585937m" data-normal="0.672902279716552m -0.09456413606189053m 0.7336621471243664m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Maxilla</div>
+    </button><button class="Hotspot" slot="hotspot-13" data-position="-0.022079648352761827m 1.554813776933449m 0.07379921488377073m" data-normal="-0.645136078182719m 0.3982966865050157m 0.6520423223581012m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Maxilla</div>
+    </button><button class="Hotspot" slot="hotspot-14" data-position="0.0007904182136828641m 1.5018745028596598m 0.08147434640296036m" data-normal="0.16421211120752657m -0.17324177621520118m 0.9710930282452701m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Mandible</div>
+    </button><button class="Hotspot" slot="hotspot-15" data-position="0.001575951266057668m 1.5274809613292097m 0.09273244825032809m" data-normal="-0.09764062890359824m -0.3667347531895525m 0.9251875098542499m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Teeth</div>
+    </button><button class="Hotspot" slot="hotspot-16" data-position="0.002844009343079157m 1.5617645789041457m 0.11318399129874765m" data-normal="0.8550269073996823m 0.22846356410446908m 0.4655463322798475m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Lateral process of nasal septal cartilage</div>
+    </button><button class="Hotspot" slot="hotspot-17" data-position="-0.00019582200940837166m 1.488414833149436m -0.051105471309016826m" data-normal="-0.029496370763944738m 0.5042334203897113m -0.8630635097568711m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Cervical vertebrae</div>
+    </button><button class="Hotspot" slot="hotspot-18" data-position="0.0000824327523302193m 1.4715378254508211m 0.0289881786560251m" data-normal="0.3081359054732566m -0.6010365131921307m 0.7374329620840271m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Laryngeal cartilages</div>
+    </button><button class="Hotspot" slot="hotspot-19" data-position="-0.00396007388974795m 1.2437816000936386m -0.08495138174854719m" data-normal="-0.8074523566121098m -0.32862201285910614m -0.4899267950071519m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Thoracic vertebrae</div>
+    </button><button class="Hotspot" slot="hotspot-20" data-position="-0.00245271122291095m 1.039645441094145m -0.046118999824754696m" data-normal="-0.739976046954062m 0.5191226307626912m -0.42772320975633593m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Lumbar vertebrae</div>
+    </button><button class="Hotspot" slot="hotspot-21" data-position="-0.10468003878704799m 1.3517222812303826m -0.08078370307478m" data-normal="-0.5631925367705553m 0.18915595176492936m -0.8043843561618107m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Scapula</div>
+    </button><button class="Hotspot" slot="hotspot-22" data-position="0.0999347519000245m 1.3489034746502795m -0.08464591536362534m" data-normal="0.5202754365309182m 0.22032777742914245m -0.825087353336419m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Scapula</div>
+    </button><button class="Hotspot" slot="hotspot-23" data-position="-0.10586322647885825m 1.4197917437923806m -0.012478686495205782m" data-normal="-0.43823883625152193m 0.8154196939918418m 0.3782029151806779m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Clavicle</div>
+    </button><button class="Hotspot" slot="hotspot-24" data-position="0.10685622862041873m 1.4199222761203756m -0.013910778363927838m" data-normal="0.438238715784133m 0.8154197156731836m 0.3782030080252383m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Clavicle</div>
+    </button><button class="Hotspot" slot="hotspot-25" data-position="-0.20336765357770772m 1.243892183130959m -0.024366398082082963m" data-normal="0.4445547546064051m -0.1233996058991466m 0.8872111402708908m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Humerus</div>
+    </button><button class="Hotspot" slot="hotspot-26" data-position="0.2102241354478354m 1.2371878521714186m -0.024499265207218075m" data-normal="0.5602176258935687m -0.04343052205518722m 0.8272061420179297m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Humerus</div>
+    </button><button class="Hotspot" slot="hotspot-27" data-position="-0.2637667452525543m 0.9731063856986789m -0.010841721270972493m" data-normal="-0.6928311606033717m 0.23183891440880122m 0.682814543388418m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Radius</div>
+    </button><button class="Hotspot" slot="hotspot-28" data-position="-0.23242591686188174m 0.9417675860401812m -0.0033371565076965037m" data-normal="0.4477922596510812m 0.3358954064725086m 0.8286473122548862m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Ulna</div>
+    </button><button class="Hotspot" slot="hotspot-29" data-position="0.26055783100132285m 0.9732358724047051m -0.009237709760871859m" data-normal="-0.19912277529678196m 0.20281604981615461m 0.9587574095124785m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Radius</div>
+    </button><button class="Hotspot" slot="hotspot-30" data-position="0.23152653206836438m 0.9377759046848415m -0.0029250244680700255m" data-normal="-0.7452156389163855m 0.13088866693742354m 0.653851518604788m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Ulna</div>
+    </button><button class="Hotspot" slot="hotspot-31" data-position="-0.08310327971937626m 0.9388664861583563m -0.024880843805783037m" data-normal="-0.6706799444986693m -0.1676161292489389m -0.7225602018260242m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Hip bone</div>
+    </button><button class="Hotspot" slot="hotspot-32" data-position="0.09643787335385978m 0.9364777221669597m -0.011018326578262683m" data-normal="0.6976634502589429m -0.1684998664177676m -0.6963285899559072m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Hip bone</div>
+    </button><button class="Hotspot" slot="hotspot-33" data-position="0.0002691213702947781m 0.9159165714043833m -0.09027008246278223m" data-normal="-0.07076365700126967m 0.8271328911348366m -0.5575335732049984m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Sacrum</div>
+    </button><button class="Hotspot" slot="hotspot-34" data-position="-0.0014522446147005833m 0.840685519286797m -0.08193756985793599m" data-normal="-0.10492028245054323m -0.2040901147602563m -0.9733133921752253m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Coccyx</div>
+    </button><button class="Hotspot" slot="hotspot-35" data-position="0.10465290264950719m 0.6393275402859088m -0.012751494922011233m" data-normal="0.6090860551150376m -0.017000137769110187m -0.7929219209860657m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Femur</div>
+    </button><button class="Hotspot" slot="hotspot-36" data-position="-0.10212871463875728m 0.6208394196582036m -0.014294076928258903m" data-normal="-0.6090860779509955m -0.017000137393183703m -0.7929219034525954m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Femur</div>
+    </button><button class="Hotspot" slot="hotspot-37" data-position="0.07189683204162954m 0.24100774437662945m -0.0329002577414787m" data-normal="-0.10926453175650491m 0.09718454808836885m -0.9892504362965384m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Tibia</div>
+    </button><button class="Hotspot" slot="hotspot-38" data-position="-0.08232334122460878m 0.2315719562030708m -0.03430172776551155m" data-normal="-0.058202924977211315m 0.040373725096798346m -0.9974880359412365m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Tibia</div>
+    </button><button class="Hotspot" slot="hotspot-39" data-position="0.10944087645319625m 0.28425617141396964m -0.05270474591080286m" data-normal="-0.007562515712052952m 0.010888451575775117m -0.9999121211278454m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Fibula</div>
+    </button><button class="Hotspot" slot="hotspot-40" data-position="-0.11069478896285469m 0.28142090452673635m -0.05223618655256068m" data-normal="-0.4149628879641749m -0.0029964841403778263m -0.9098334038137028m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Fibula</div>
+    </button><button class="Hotspot" slot="hotspot-41" data-position="0.0681524142251223m 0.02794868050361643m -0.08791131025019949m" data-normal="-0.5044418512944893m -0.21194208833556938m -0.837029850037946m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Calcaneus</div>
+    </button><button class="Hotspot" slot="hotspot-42" data-position="-0.07055742097016365m 0.02730622986987847m -0.08919807328580709m" data-normal="0.5044423789664966m -0.2119420260538818m -0.8370295478027028m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Calcaneus</div>
+    </button><button class="Hotspot" slot="hotspot-43" data-position="0.06873244341327425m 0.0696694259057451m -0.058909096767746055m" data-normal="-0.05102487815115496m 0.7342172151091588m -0.6769944924790829m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Talus</div>
+    </button><button class="Hotspot" slot="hotspot-44" data-position="-0.06620277295088808m 0.06837461475216455m -0.059579127431813816m" data-normal="0.3280289559882434m 0.20915734070165412m -0.9212221289482115m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Talus</div>
+    </button><button class="Hotspot" slot="hotspot-45" data-position="-0.07941696032584016m 0.07193271676563295m 0.004782335291146911m" data-normal="-0.25123503912127565m 0.8275979798936342m 0.5019587022790889m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Tarsal bones</div>
+    </button><button class="Hotspot" slot="hotspot-46" data-position="0.07534974670409525m 0.06917714851196595m 0.007078595605752681m" data-normal="-0.3442953890565567m 0.9382774459855411m 0.033107694411484645m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Tarsal bones</div>
+    </button><button class="Hotspot" slot="hotspot-47" data-position="-0.08898338263040101m 0.043316000197958004m 0.05479228417868298m" data-normal="0.27064711021024335m 0.8075308440594856m 0.5240649555421727m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Metatarsal bones</div>
+    </button><button class="Hotspot" slot="hotspot-48" data-position="0.09127303064056234m 0.04389296809961263m 0.05477232461713745m" data-normal="0.20347387552786672m 0.8160790461167642m 0.5409374940479006m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Metatarsal bones</div>
+    </button><button class="Hotspot" slot="hotspot-49" data-position="-0.09602454590732705m 0.02025687547813093m 0.1038478873989348m" data-normal="0.6743970797954961m 0.6453101676698266m 0.3588361273133569m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Phalanges of foot</div>
+    </button><button class="Hotspot" slot="hotspot-50" data-position="0.10141500557251334m 0.020002331711388377m 0.1036860470691191m" data-normal="0.6780790612576896m 0.7214788046882913m 0.14027516198331386m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Phalanges of foot</div>
+    </button><button class="Hotspot" slot="hotspot-51" data-position="-0.2734213421452796m 0.7991066876587445m 0.02871499579428205m" data-normal="-0.5594595505617738m 0.39731396000440844m 0.7274246548411963m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Metacarpal bones</div>
+    </button><button class="Hotspot" slot="hotspot-52" data-position="0.27367412842194017m 0.7974066985264427m 0.029449100172362564m" data-normal="0.5594595276526363m 0.3973139674166803m 0.7274246684119988m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Metacarpal bones</div>
+    </button><button class="Hotspot" slot="hotspot-53" data-position="-0.27998840462649827m 0.7485866399087897m 0.05207067906946605m" data-normal="-0.1595916850065084m 0.6000813588949022m 0.7838576763568952m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Proximal phalanx </div>
+    </button><button class="Hotspot" slot="hotspot-54" data-position="0.28054565340390836m 0.7489128812733318m 0.05170747077003998m" data-normal="0.15959167573637836m 0.6000813598058863m 0.7838576775468702m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Proximal phalanx </div>
+    </button><button class="Hotspot" slot="hotspot-55" data-position="-0.28231686016202057m 0.7201651420066808m 0.07190051831112876m" data-normal="0.2810064665699935m 0.5924854064296502m 0.7549810652683546m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Middle phalanx </div>
+    </button><button class="Hotspot" slot="hotspot-56" data-position="0.28543286786230604m 0.7189871449732486m 0.07217998400820023m" data-normal="0.4913823342576064m 0.5273267423261198m 0.6931593672506114m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Middle phalanx </div>
+    </button><button class="Hotspot" slot="hotspot-57" data-position="-0.28600031559958145m 0.7039322473273439m 0.09250868095858578m" data-normal="0.1686301637179096m 0.7089466655071691m 0.6848054419692773m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Distal phalanx </div>
+    </button><button class="Hotspot" slot="hotspot-58" data-position="0.28721659933479876m 0.70410627652285m 0.09252871753361175m" data-normal="0.056956528185383604m 0.834126148411041m 0.5486251201266943m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Distal phalanx </div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
